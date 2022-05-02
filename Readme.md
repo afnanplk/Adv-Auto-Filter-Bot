@@ -14,5 +14,9 @@
 
 
 # Deprecate Version.... Use Latest One Given Below... 
+<p align="center">
+<a href="https://heroku.com/deploy?template=https://github.com/afnanplk/Adv-Auto-Fil">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
 
-<i>**[Latest Repo](https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot-V2)**</i>
